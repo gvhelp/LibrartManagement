@@ -1,3 +1,5 @@
 This file is for new feature.
 
 By this feature we can track staff management
+
+Adding more lines as per review comments
